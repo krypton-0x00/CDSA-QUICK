@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. SPLUNK QUICK REVIEW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1. SPLUNK QUICK REVIEW"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "23dfe9e1477c88f1",
@@ -184,6 +185,6 @@
   "active": "cee6931041d5c559",
   "lastOpenFiles": [
     "1.elastic.md",
-    "Untitled.md"
+    "1. SPLUNK QUICK REVIEW.md"
   ]
 }
