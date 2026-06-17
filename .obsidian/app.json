@@ -6,5 +6,6 @@
   "foldHeading": true,
   "smartIndentList": true,
   "strictLineBreaks": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": true
 }
