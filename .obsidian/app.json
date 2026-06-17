@@ -1,0 +1,10 @@
+{
+  "readableLineLength": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "Images",
+  "foldIndent": true,
+  "foldHeading": true,
+  "smartIndentList": true,
+  "strictLineBreaks": false,
+  "promptDelete": false
+}
