@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. SPLUNK QUICK REVIEW.md",
+                "file": "Images/3. SPLUNK FULL QUERIES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. SPLUNK QUICK REVIEW"
+              "title": "3. SPLUNK FULL QUERIES"
             }
           }
         ]
@@ -182,10 +182,11 @@
       "pomodoro-widget:Toggle pomodoro widget.": false
     }
   },
-  "active": "78f5bd6f290039ec",
+  "active": "cee6931041d5c559",
   "lastOpenFiles": [
-    "Test Report.md",
     "2. Sysmon EventCode..md",
+    "Images/3. SPLUNK FULL QUERIES.md",
+    "Test Report.md",
     "Images/Pasted image 20260625111437.png",
     "1. SPLUNK QUICK REVIEW.md",
     "Images/Pasted image 20260617140634.png",
