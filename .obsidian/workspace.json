@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Images/3. SPLUNK FULL QUERIES.md",
+                "file": "4. Splunk Detection Queries (TTP-Based).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. SPLUNK FULL QUERIES"
+              "title": "4. Splunk Detection Queries (TTP-Based)"
             }
           }
         ]
@@ -184,6 +184,11 @@
   },
   "active": "cee6931041d5c559",
   "lastOpenFiles": [
+    "3. SPLUNK FULL QUERIES.md",
+    "1. SPLUNK QUICK REVIEW.md",
+    "2. Sysmon EventCode..md",
+    "Test Report.md",
+    "4. Splunk Detection Queries (TTP-Based).md",
     "Images/Pasted image 20260625122549.png",
     "Images/Pasted image 20260625122510.png",
     "Images/Pasted image 20260625122430.png",
@@ -194,11 +199,6 @@
     "Images/Pasted image 20260625120540.png",
     "Images/Pasted image 20260625120323.png",
     "Images/Pasted image 20260625120257.png",
-    "Images/Pasted image 20260625120238.png",
-    "2. Sysmon EventCode..md",
-    "Images/3. SPLUNK FULL QUERIES.md",
-    "Test Report.md",
-    "1. SPLUNK QUICK REVIEW.md",
     "Images",
     "1.elastic.md"
   ]
