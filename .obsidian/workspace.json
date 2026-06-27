@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "458bd8f99fbdf107",
+        "id": "e3f050db3db52f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "cee6931041d5c559",
+            "id": "f8095e0dec518f0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Splunk Detection Queries (TTP-Based).md",
+                "file": "SPLUNK/5. Splunk Detection Queries (Analytics-Based).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Splunk Detection Queries (TTP-Based)"
+              "title": "5. Splunk Detection Queries (Analytics-Based)"
             }
           }
         ]
@@ -182,14 +182,17 @@
       "pomodoro-widget:Toggle pomodoro widget.": false
     }
   },
-  "active": "cee6931041d5c559",
+  "active": "f8095e0dec518f0a",
   "lastOpenFiles": [
-    "Images/Pasted image 20260627095613.png",
-    "2. Sysmon EventCode..md",
-    "4. Splunk Detection Queries (TTP-Based).md",
-    "3. SPLUNK FULL QUERIES.md",
-    "1. SPLUNK QUICK REVIEW.md",
+    "Untitled.md",
+    "SPLUNK/4. Splunk Detection Queries (TTP-Based).md",
     "Test Report.md",
+    "SPLUNK/1. SPLUNK QUICK REVIEW.md",
+    "SPLUNK/5. Splunk Detection Queries (Analytics-Based).md",
+    "SPLUNK",
+    "Images/Pasted image 20260627095613.png",
+    "SPLUNK/2. Sysmon EventCode..md",
+    "SPLUNK/3. SPLUNK FULL QUERIES.md",
     "Images/Pasted image 20260625122549.png",
     "Images/Pasted image 20260625122510.png",
     "Images/Pasted image 20260625122430.png",
@@ -199,7 +202,6 @@
     "Images/Pasted image 20260625121313.png",
     "Images/Pasted image 20260625120540.png",
     "Images/Pasted image 20260625120323.png",
-    "Images/Pasted image 20260625120257.png",
     "Images",
     "1.elastic.md"
   ]
