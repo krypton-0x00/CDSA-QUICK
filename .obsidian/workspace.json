@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPLUNK/6. Scenerio Based.md",
+                "file": "Windows AD/Kerberos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Scenerio Based"
+              "title": "Kerberos"
             }
           }
         ]
@@ -184,8 +184,16 @@
   },
   "active": "f8095e0dec518f0a",
   "lastOpenFiles": [
-    "SPLUNK/5. Splunk Detection Queries (Analytics-Based).md",
+    "Images/Pasted image 20260702114926.png",
+    "Images/Pasted image 20260702114804.png",
+    "Images/Pasted image 20260702114515.png",
+    "Images/Pasted image 20260702114437.png",
+    "Images/Pasted image 20260702114419.png",
+    "Images/Pasted image 20260702114356.png",
     "SPLUNK/6. Scenerio Based.md",
+    "Windows AD/Kerberos.md",
+    "Windows AD",
+    "SPLUNK/5. Splunk Detection Queries (Analytics-Based).md",
     "Untitled.md",
     "SPLUNK/4. Splunk Detection Queries (TTP-Based).md",
     "Test Report.md",
@@ -198,11 +206,6 @@
     "Images/Pasted image 20260625122510.png",
     "Images/Pasted image 20260625122430.png",
     "Images/Pasted image 20260625122157.png",
-    "Images/Pasted image 20260625122118.png",
-    "Images/Pasted image 20260625122028.png",
-    "Images/Pasted image 20260625121313.png",
-    "Images/Pasted image 20260625120540.png",
-    "Images/Pasted image 20260625120323.png",
     "Images",
     "1.elastic.md"
   ]
