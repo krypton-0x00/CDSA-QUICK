@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPLUNK/5. Splunk Detection Queries (Analytics-Based).md",
+                "file": "SPLUNK/6. Scenerio Based.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Splunk Detection Queries (Analytics-Based)"
+              "title": "6. Scenerio Based"
             }
           }
         ]
@@ -184,11 +184,12 @@
   },
   "active": "f8095e0dec518f0a",
   "lastOpenFiles": [
+    "SPLUNK/5. Splunk Detection Queries (Analytics-Based).md",
+    "SPLUNK/6. Scenerio Based.md",
     "Untitled.md",
     "SPLUNK/4. Splunk Detection Queries (TTP-Based).md",
     "Test Report.md",
     "SPLUNK/1. SPLUNK QUICK REVIEW.md",
-    "SPLUNK/5. Splunk Detection Queries (Analytics-Based).md",
     "SPLUNK",
     "Images/Pasted image 20260627095613.png",
     "SPLUNK/2. Sysmon EventCode..md",
